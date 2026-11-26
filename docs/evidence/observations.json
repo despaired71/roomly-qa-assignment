@@ -1,0 +1,26 @@
+[
+  {
+    "case": "duration-29",
+    "time": "2026-11-26T12:36:05.333Z",
+    "form": "- generic: Переговорная *\n    - combobox \"Переговорная *\":\n      - option \"Выберите комнату\"\n      - option \"Малая · до 4 человек\" [selected]\n      - option \"Средняя · до 10 человек\"\n      - option \"Большая · до 20 человек\"\n    - generic: Дата *\n    - textbox \"Дата *\": 2026-11-27\n    - generic: Начало *\n    - textbox \"Начало *\": 10:00\n    - generic: Окончание *\n    - textbox \"Окончание *\": 10:29\n    - generic: Участники *\n    - spinbutton \"Участники *\": \"3\"\n    - generic: Ваше имя *\n    - textbox \"Ваше имя *\":\n      - /placeholder: Как к вам обращаться?\n      - text: Ирина\n    - generic: Рабочая почта *\n    - textbox \"Рабочая почта *\":\n      - /placeholder: name@company.ru\n      - text: <redacted>\n    - status:\n      - strong: Бронирование создано.\n      - text: Малая, 2026-11-27, 10:00–10:29 · Ирина\n    - paragraph: \"* Обязательные поля\"\n    - button \"Забронировать\" [active]:\n      - text: Забронировать\n      - generic: ↗",
+    "console": []
+  },
+  {
+    "case": "duration-241",
+    "time": "2026-11-26T12:36:05.976Z",
+    "form": "- generic: Переговорная *\n    - combobox \"Переговорная *\":\n      - option \"Выберите комнату\"\n      - option \"Малая · до 4 человек\" [selected]\n      - option \"Средняя · до 10 человек\"\n      - option \"Большая · до 20 человек\"\n    - generic: Дата *\n    - textbox \"Дата *\": 2026-11-27\n    - generic: Начало *\n    - textbox \"Начало *\": 10:00\n    - generic: Окончание *\n    - textbox \"Окончание *\": 14:01\n    - generic: Участники *\n    - spinbutton \"Участники *\": \"3\"\n    - generic: Ваше имя *\n    - textbox \"Ваше имя *\":\n      - /placeholder: Как к вам обращаться?\n      - text: Ирина\n    - generic: Рабочая почта *\n    - textbox \"Рабочая почта *\":\n      - /placeholder: name@company.ru\n      - text: <redacted>\n    - status:\n      - strong: Бронирование создано.\n      - text: Малая, 2026-11-27, 10:00–14:01 · Ирина\n    - paragraph: \"* Обязательные поля\"\n    - button \"Забронировать\" [active]:\n      - text: Забронировать\n      - generic: ↗",
+    "console": []
+  },
+  {
+    "case": "duration-zero",
+    "time": "2026-11-26T12:36:06.532Z",
+    "form": "- generic: Переговорная *\n    - combobox \"Переговорная *\":\n      - option \"Выберите комнату\"\n      - option \"Малая · до 4 человек\" [selected]\n      - option \"Средняя · до 10 человек\"\n      - option \"Большая · до 20 человек\"\n    - generic: Дата *\n    - textbox \"Дата *\": 2026-11-27\n    - generic: Начало *\n    - textbox \"Начало *\": 10:00\n    - generic: Окончание *\n    - textbox \"Окончание *\": 10:00\n    - generic: Участники *\n    - spinbutton \"Участники *\": \"3\"\n    - generic: Ваше имя *\n    - textbox \"Ваше имя *\":\n      - /placeholder: Как к вам обращаться?\n      - text: Ирина\n    - generic: Рабочая почта *\n    - textbox \"Рабочая почта *\":\n      - /placeholder: name@company.ru\n      - text: <redacted>\n    - status:\n      - strong: Бронирование создано.\n      - text: Малая, 2026-11-27, 10:00–10:00 · Ирина\n    - paragraph: \"* Обязательные поля\"\n    - button \"Забронировать\" [active]:\n      - text: Забронировать\n      - generic: ↗",
+    "console": []
+  },
+  {
+    "case": "elapsed-today",
+    "time": "2026-11-26T12:36:07.025Z",
+    "form": "- generic: Переговорная *\n    - combobox \"Переговорная *\":\n      - option \"Выберите комнату\"\n      - option \"Малая · до 4 человек\" [selected]\n      - option \"Средняя · до 10 человек\"\n      - option \"Большая · до 20 человек\"\n    - generic: Дата *\n    - textbox \"Дата *\": 2026-11-26\n    - generic: Начало *\n    - textbox \"Начало *\": 10:00\n    - generic: Окончание *\n    - textbox \"Окончание *\": 11:00\n    - generic: Участники *\n    - spinbutton \"Участники *\": \"3\"\n    - generic: Ваше имя *\n    - textbox \"Ваше имя *\":\n      - /placeholder: Как к вам обращаться?\n      - text: Ирина\n    - generic: Рабочая почта *\n    - textbox \"Рабочая почта *\":\n      - /placeholder: name@company.ru\n      - text: <redacted>\n    - status:\n      - strong: Бронирование создано.\n      - text: Малая, 2026-11-26, 10:00–11:00 · Ирина\n    - paragraph: \"* Обязательные поля\"\n    - button \"Забронировать\" [active]:\n      - text: Забронировать\n      - generic: ↗",
+    "console": []
+  }
+]
